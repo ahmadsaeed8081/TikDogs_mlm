@@ -63,7 +63,7 @@ const LevelDetails = (props) => {
 
             key={`dot-${row}-${i}`}
             className={`tw-block  tw-w-14 tw-h-14 tw-border ${
-              isFilled ? "tw-bg-[#DDA80E] tw-border-[#DDA80E]" : "tw-border-[#DDA80E]"
+              isFilled ? "tw-bg-[#f90331] tw-border-[#f90331]" : "tw-border-[#f90331]"
             } tw-rounded-full tw-inline-block tw-mx-1.5`}
           ></span>
           </Tooltip>
@@ -115,7 +115,7 @@ const LevelDetails = (props) => {
           // href="#"
             key={`dot-${row}-${i}`}
             className={`tw-block tw-w-14 tw-h-14 tw-border ${
-              isFilled ? "tw-bg-[#DDA80E] tw-border-[#DDA80E]" : "tw-border-[#DDA80E]"
+              isFilled ? "tw-bg-[#f90331] tw-border-[#f90331]" : "tw-border-[#f90331]"
             } tw-rounded-full tw-inline-block tw-mx-1.5 tw-my-1`}
           >
 
@@ -136,7 +136,7 @@ const LevelDetails = (props) => {
   return (
     <>
       <PanelNav search_user={props.search_user} />
-      <section className="tw-text-white">
+      <section className="tw-bg-[#1c1919] tw-py-10 tw-text-white">
         <div className="container tw-mb-12 tw-mx-auto">
           <div className="tw-flex sm:tw-flex-row tw-flex-col tw-gap-4 tw-justify-center tw-items-center">
             <div className="tw-w-96">

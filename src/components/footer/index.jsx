@@ -30,7 +30,7 @@ const Footer = () => {
                   </Link>
                 </li>
                 <li>
-                  <Link to={"#"}>
+                  <Link to={"https://x.com/TheTikDogs"}>
                     <img src={require("../../assets/images/twitter.png")} />
                   </Link>
                 </li>

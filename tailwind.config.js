@@ -18,7 +18,7 @@ module.exports = {
         Banner:"url('assets/images/bg-banner.png')",
         Hero_bg:"url('assets/images/hero_right_image.png')",
         'button-gradient': 'linear-gradient(90deg,  #F9F8A5  0%, #DDA80E 100%)',
-        'button-level':'linear-gradient(180deg, #1E1E1E 0%, #00000000 50%, #F3E78533 100%)',
+        'button-level':'linear-gradient(180deg, #1E1E1E 0%, #00000000 60%, #f90331 100%)',
         'gradient': 'linear-gradient(90.37deg, rgba(255, 255, 255, 0.52) 10.97%, rgba(243, 243, 243, 0.29) 100%)'
         
       

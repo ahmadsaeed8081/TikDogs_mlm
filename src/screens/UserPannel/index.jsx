@@ -970,7 +970,7 @@ async function updateName1() {
                     return (
 
                         <>
-                    {item.isjoined?(
+                    {!item.isjoined?(
 
                       <Link
                         to={`/level-details/${Number(item?.id)-1}`}

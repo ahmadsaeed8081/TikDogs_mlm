@@ -12,7 +12,7 @@ import { useAccount, useReadContract, useWriteContract } from "wagmi";
 const Header = () => {
 
   const openPdfInNewTab = () => {
-    const pdfUrl = require("../../assets/images/BOOSTER_PDF.pdf");
+    const pdfUrl = require("../../assets/images/TikDogsMLM.pdf");
     window.open(pdfUrl, "_blank");
   };
 

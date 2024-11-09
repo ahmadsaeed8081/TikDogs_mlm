@@ -17,7 +17,7 @@ const RoadMap = () => {
           </h1>
           <p>
             <h3 className="  text-white  tw-font-zen-dots">
-              Booster lite
+              Tiks lite
               <span className=" tw-text-[#F90331] tw-font-zen-dots  ">
                 {" "}
                 (First Program)
@@ -78,7 +78,7 @@ const RoadMap = () => {
           className={` tw-flex   tw-mt-12 tw-border-[#F90331]   tw-pl-3 tw-border-l-2`}
         >
           <h6 className="tw-text-white   sm:tw-text-base tw-text-sm tw-font-zen-dots ">
-          Booster Coin launch 
+          Tiks Coin launch 
           </h6>
         </div>
           </div>
@@ -94,7 +94,7 @@ const RoadMap = () => {
           </h2>
           <p>
             <h3 className="  text-white  tw-font-zen-dots">
-              Global Booster
+              Global Tiks
               <span className=" tw-text-[#F90331] tw-font-zen-dots  ">
                 {" "}
                 (Second Program)
@@ -132,7 +132,7 @@ const RoadMap = () => {
           className={`  tw-border-[#F90331]   tw-pl-3 tw-border-l-2`}
         >
           <h6 className="tw-text-white   sm:tw-text-base tw-text-sm tw-font-zen-dots">
-            Booster wallet{" "}
+            Tiks wallet{" "}
           </h6>
         </div>
       </div>

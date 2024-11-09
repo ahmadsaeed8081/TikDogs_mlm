@@ -104,7 +104,7 @@ const Register = (props) => {
        
        if(props.isRegister)
        {
-         alert("You are already a registered memeber of booster community");
+         alert("You are already a registered memeber of TikDogs community");
          return;
        }
 
@@ -175,7 +175,7 @@ const Register = (props) => {
                 </h1>
 
                 <p className=" tw-text-white tw-text-xl sm:tw-text-left tw-text-center">
-                  Booster is the flagship of decentralized systems, offering
+                  TikDogs is the flagship of decentralized systems, offering
                   a wide range of product
                 </p>
 
@@ -264,10 +264,10 @@ const Register = (props) => {
         ) : (
           <>
             <h5 className="tw-text-white tw-font-poppins ">
-              Need help using the Booster.coach platform?
+              Need help using the TikDogs.com platform?
             </h5>
             <p className="tw-font-normal tw-text-white tw-font-poppins tw-py-3">
-              Get professional support from Booster.coach specialists in the online chat.
+              Get professional support from TikDogs.com specialists in the online chat.
             </p>
 
             
@@ -309,11 +309,11 @@ const teamMembers = [
     role: "The Uniteverse GameAf is the heart of our Metauniverse, its core layer, a simulation of real life.",
     image: require("../../../assets/images/ri_nft-line.png"),
   },
-  {
-    name: "Game Earning",
-    role: "With Booster.coach, earning rewards is as easy as playing games! Enjoy exciting gameplay and unlock opportunities to win real rewards.    ",
-    image: require("../../../assets/images/material-symbols_admin-panel-settings-rounded.png"),
-  },
+  // {
+  //   name: "Game Earning",
+  //   role: "With TikDogs.com, earning rewards is as easy as playing games! Enjoy exciting gameplay and unlock opportunities to win real rewards.    ",
+  //   image: require("../../../assets/images/material-symbols_admin-panel-settings-rounded.png"),
+  // },
 ];
 
 export default Register;

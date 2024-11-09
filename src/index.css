@@ -29,7 +29,11 @@ a{
   -webkit-text-fill-color: transparent;
 }
 
-
+.gradient-box {
+  background: linear-gradient(90deg, #ff5252 0%, #DDA80E 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
 
 .border-gradient {
   border-width: 2.14px;

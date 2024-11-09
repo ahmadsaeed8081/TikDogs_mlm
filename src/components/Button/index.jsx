@@ -13,7 +13,7 @@ const Button = ({
     <button
       onClick={onClick}
       type={type}
-      className={`tw-px-6 tw-text-center  tw-py-2.5    tw-flex tw-items-center tw-justify-center tw-gap-1 tw-bg-[#F90331] tw-text-black ${className}`}
+      className={`tw-px-6 tw-text-center  tw-py-2.5    tw-flex tw-items-center tw-justify-center tw-gap-1 tw-bg-[#F90331] tw-text-white ${className}`}
       disabled={disabled}
     >
       {Icons} {label} {rIcons}

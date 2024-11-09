@@ -63,7 +63,7 @@ const Hero = (props) => {
              
             </h1>
             <p className=" tw-text-white sm:tw-text-start tw-text-center    tw-font-extralight tw-leading-7 tw-pt-4 tw-text-lg t">
-            Are you ready to take control of your financial future? Booster.coach offers a revolutionary income system powered by blockchain technology,
+            Are you ready to take control of your financial future? Tikdogs offers a revolutionary income system powered by blockchain technology,
             </p>
             <div className=" tw-flex tw-gap-5  tw-relative  tw-z-10 sm:tw-justify-start tw-justify-center">
 
@@ -92,16 +92,16 @@ const Hero = (props) => {
           <div className="col-lg-6 col-md-12">
             <div className=" row">
               <div className="col-md-10  tw-mx-auto">
-              <img src={require('../../assets/images/mlm.png')} width={500} alt="" />
+              <img src={require('../../assets/images/hero1.jpeg')}  alt="" />
               </div>
             </div>
           </div>
         </div>
       </div>
-
+{/* 
       <div className=" tw-absolute tw-right-0 tw-top-0">
         <img  src={require('../../assets/images/home_right.png')}  alt="" />
-      </div>
+      </div> */}
     </div>
   );
 };

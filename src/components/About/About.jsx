@@ -20,10 +20,10 @@ const About = () => {
               </span>
             </h1>
             <p className=" tw-text-white  sm:tw-text-start tw-text-center  tw-leading-8 tw-pt-4 ">
-              Welcome to Booster.coach, where innovation meets opportunity! Our
+              Welcome to Tikdogs.com, where innovation meets opportunity! Our
               company is built on the revolutionary power of blockchain
               technology, providing a 100% blockchain-controlled income system.
-              At Booster.coach, we are dedicated to offering a unique and
+              At Tikdogs.com, we are dedicated to offering a unique and
               transparent platform where anyone can earn through multiple
               avenues, from referral-based income to gaming rewards.
             </p>
@@ -35,11 +35,11 @@ const About = () => {
               where both experienced and new networkers can thrive.{" "}
             </p>
             <p className=" tw-text-white  sm:tw-text-start tw-text-center  tw-leading-8 ">
-              At Booster.coach, we believe in fairness, transparency, and the
+              At Tikdogs.com, we believe in fairness, transparency, and the
               power of technology to transform lives. By leveraging blockchain,
               we ensure that every transaction and earning process is secure,
               decentralized, and reliable. Whether you’re looking to build a
-              team, earn passively, or even make money through gaming, we have
+              team, earn passively an income. we have
               the tools and the community to help you succeed.
             </p>
             <p className=" tw-text-white  sm:tw-text-start tw-text-center  tw-leading-8 ">
@@ -52,7 +52,7 @@ const About = () => {
               <div className="col-md-12 tw-mx-auto">
                 <div className=" tw-relative ">
                   <img
-                    src={require("../../assets/images/about.png")}
+                    src={require("../../assets/images/about1.jpeg")}
                     className=" tw-w-full"
                     alt=""
                   />

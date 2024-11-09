@@ -11,7 +11,7 @@ export default function Accordion(props) {
         >
           <div className=" tw-flex  tw-items-center tw-gap-3">
             <div className="">
-              <h2 className="gradient-text  tw-text-xl tw-font-zen-dots">{props.id}</h2>
+              <h2 className="tw-text-[#F90331]  tw-text-xl tw-font-zen-dots">{props.id}</h2>
             </div>
             <p className=" m-0 tw-text-white  tw-font-zen-dots">
               {" "}

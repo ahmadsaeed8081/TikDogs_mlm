@@ -287,7 +287,7 @@ function App() {
          }
 
          set_user_address(address)
-         set_myName(myName=="" ? "User_Booster":myName)
+         set_myName(myName=="" ? "Tik_User":myName)
          set_total_users(totalusers);
          set_regFee(regFee)
         set_isRegister(user[0])
